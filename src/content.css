@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.child{
+    background-color: rgb(41, 35, 35);
+    color: aquamarine;
+    margin-right: 20px;
+    width: 500px;
+    height: 200px;
+    flex-wrap: wrap;
+    margin-top: 2%;
+}
